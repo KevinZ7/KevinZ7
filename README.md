@@ -14,7 +14,7 @@ In my ongoing journey, I am actively engaged in:
 ## 🛠️ Personal Coding Alcove
 Beyond the corporate coding adventures, I maintain an experimental arena:
 
-**[The Programming Lab](https://www.theprogramminglab.com):** A curated space where I experiment with emerging technologies such as GraphQL, Docker, and Serverless. The lab serves as my sandbox for innovation, exploration, and creative coding escapades.
+**[The Programming Lab](https://theprogramminglab.com):** A curated space where I experiment with emerging technologies such as GraphQL, Docker, and Serverless. The lab serves as my sandbox for innovation, exploration, and creative coding escapades.
 
 ## 💡 Passion for Progress
 My professional interests gravitate towards harnessing AI techniques to address real-world challenges across various domains. I'm captivated by the potential of AI to revolutionize industries, and I constantly seek opportunities to apply AI to practical scenarios.
